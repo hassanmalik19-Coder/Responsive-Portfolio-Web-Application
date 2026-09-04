@@ -4,18 +4,18 @@ A fully responsive single-page portfolio web application developed as part of my
 
 ## 🎯 Objective
 
-To design and develop a semantic, responsive single-page portfolio website with a fluid layout that provides a smooth user experience across **desktop, tablet, and mobile devices**.
+To build a semantic, responsive single-page portfolio website with a fluid layout that works smoothly across different screen sizes.
 
 ## ✨ Features
 
 * Semantic **HTML5** structure
 * Responsive **CSS Grid** and **Flexbox** layouts
 * Fully responsive design
-* Mobile-friendly interface
 * CSS media queries
 * Interactive mobile navigation menu
+* Mobile-friendly layout
 * Smooth navigation experience
-* Responsive layout across different screen sizes
+* Responsive design for desktop, tablet, and mobile devices
 
 ## 🛠️ Technologies Used
 
@@ -26,16 +26,11 @@ To design and develop a semantic, responsive single-page portfolio website with 
 ## 📁 Project Structure
 
 ```text
-responsive-portfolio-web-application/
+PORTFOLIO/
 │
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-│   └── ...
-└── README.md
+├── style.css
+└── script.js
 ```
 
 ## 🚀 How to Run
@@ -43,13 +38,13 @@ responsive-portfolio-web-application/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/responsive-portfolio-web-application.git
+git clone https://github.com/hassanmalik19-Coder/Responsive-Portfolio-Web-Application.git
 ```
 
-### 2. Open the Project
+### 2. Navigate to the Project Directory
 
 ```bash
-cd responsive-portfolio-web-application
+cd Responsive-Portfolio-Web-Application
 ```
 
 ### 3. Run the Application
@@ -58,7 +53,7 @@ Open the `index.html` file in any modern web browser.
 
 ## 📱 Responsive Design
 
-The application is optimized for:
+The portfolio is designed and optimized for:
 
 * 💻 **Desktop**
 * 📱 **Mobile**
@@ -66,17 +61,18 @@ The application is optimized for:
 
 ## 📚 Internship Task
 
-**Task 2 — Fully Responsive Portfolio Web Application**
+**Task 2: Fully Responsive Portfolio Web Application**
 
 ### Requirements Implemented
 
 * Semantic HTML5 structural blocks
 * Customized CSS Grid and Flexbox systems
-* Fluid layouts across different screen widths
+* Fluid layout across different screen widths
 * Responsive media queries
 * Interactive mobile navigation menu
 
 ## 👨‍💻 Author
 
-**Hassan Saleem**
+**Hassan Malik**
 
+GitHub: [hassanmalik19-Coder](https://github.com/hassanmalik19-Coder)
